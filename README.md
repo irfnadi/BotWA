@@ -1,4 +1,4 @@
-## ODADING-BOT
+## IRFAN X GILANG X RYAN BOT
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -51,6 +51,6 @@ ket : ✅ : aktif
 
 ## THANKS TO
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
-* [`botst4rz`](https://github.com/Bintang73/botst4rz)
+* [`BotWa`](https://github.com/irfnadi/BotWa)
 ## DONASI
-via pulsa 081220595591
+GOPAY : 0822864255838
